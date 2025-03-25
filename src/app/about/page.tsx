@@ -10,7 +10,7 @@ export default function About() {
           Sobre Mim
         </h1>
         <Image
-          src="/profile.jpeg"
+          src="/foto-guilherme.png"
           width={200}
           height={200}
           alt="Foto de Guilherme"
